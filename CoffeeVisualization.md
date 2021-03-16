@@ -3,7 +3,6 @@
 ****The first step is to create a symbol map that takes the average margin of each market****
 ![image](https://user-images.githubusercontent.com/46035475/111220338-6da17180-85af-11eb-85bc-0a14da3dfb6b.png)
 ****Next I created a horizontal bar chart in order to forecast Sales, Cogs, Margin, and Profit for each Product Type****
-![image](https://user-images.githubusercontent.com/46035475/111359902-7c952c00-8662-11eb-913f-0131a79a6a87.png)
 ![image](https://user-images.githubusercontent.com/46035475/111359861-6f783d00-8662-11eb-8159-3c22b4c277af.png)
 ****Comparing Inventory and Sales will help to see how fast inventory is moving****
 ![image](https://user-images.githubusercontent.com/46035475/111220566-b78a5780-85af-11eb-8a0a-3c3b0faa72ad.png)
